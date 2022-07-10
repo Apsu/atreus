@@ -53,8 +53,8 @@
       "KC_RBRC"
     ],
     [
-      "LSA(KC_UP)",
-      "LSA(KC_DOWN)",
+      "LALT(KC_UP)",
+      "LALT(KC_DOWN)",
       "SGUI(KC_LBRC)",
       "SGUI(KC_RBRC)",
       "KC_SCRL",
@@ -73,8 +73,8 @@
       "KC_DOWN",
       "KC_RGHT",
       "KC_PGDN",
-      "LALT(KC_UP)",
-      "LALT(KC_DOWN)",
+      "LSA(KC_UP)",
+      "LSA(KC_DOWN)",
       "LSFT(KC_PGUP)",
       "LSFT(KC_PGDN)",
       "KC_NUM",
